@@ -1,4 +1,4 @@
-package co.edu.uniquindio.abstractFactory;
+package co.edu.uniquindio.creational.abstractFactory;
 
 public class MainAbstractFactory {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package co.edu.uniquindio.prototype;
+package co.edu.uniquindio.creational.prototype;
 
 public class Guerrero implements Personaje {
 

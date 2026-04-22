@@ -1,4 +1,4 @@
-package co.edu.uniquindio.factoryMethod;
+package co.edu.uniquindio.creational.factoryMethod;
 
 public class MainFactoryMethod {
     public static void main(String[] args) {

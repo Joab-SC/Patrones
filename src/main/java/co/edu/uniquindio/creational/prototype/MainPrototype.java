@@ -1,4 +1,4 @@
-package co.edu.uniquindio.prototype;
+package co.edu.uniquindio.creational.prototype;
 
 public class MainPrototype {
     public static void main(String[] args) {

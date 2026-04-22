@@ -1,4 +1,4 @@
-package co.edu.uniquindio.builder;
+package co.edu.uniquindio.creational.builder;
 
 // Usuario.java
 public class Usuario {

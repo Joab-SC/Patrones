@@ -1,4 +1,4 @@
-package co.edu.uniquindio.factoryMethod;
+package co.edu.uniquindio.creational.factoryMethod;
 
 public class Carro implements Transporte {
     @Override

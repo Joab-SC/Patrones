@@ -1,4 +1,4 @@
-package co.edu.uniquindio.singleton;
+package co.edu.uniquindio.creational.singleton;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
